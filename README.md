@@ -3,7 +3,7 @@ This is a time series project that seeks to predict sales of the Favourita compa
 ## Summary
 | Code          |     Name                       | Published Article|    PowerBi Dashboard
 | ------------- | -------------                  | -------------    |    -----------------
-| LP3           | LP3-Time Series Analysis |  [Article]()               |[PowerBI]()
+| LP3           | LP3-Time Series Analysis |  [Article]()               |[PowerBI](https://bit.ly/team_jackson_hole)
 
 ## Description
 Favorita stores hold a significant presence in the Ecuadorian grocery retail market and are renowned for providing a wide range of products to customers across the country. With a customer-centric approach and a focus on continuous improvement, Favorita stores are dedicated to delivering value to their customers and building lasting relationships. By leveraging advanced data analytics and forecasting models, Favorita aims to optimize its inventory management, ensure product availability, and enhance the overall shopping experience.

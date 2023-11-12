@@ -1,4 +1,6 @@
 # LP3-Time-Series-Analysis
+![image](https://github.com/aaronayitey/LP3-Time-Series-Analysis/assets/63174936/aa83b4ea-8651-4234-819f-34e818676cde)
+
 This is a time series project that seeks to predict sales of the Favourita company.
 ## Summary
 | Code          |     Name                       | Published Article|    PowerBi Dashboard
